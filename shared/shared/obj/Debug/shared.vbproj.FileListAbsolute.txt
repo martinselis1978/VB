@@ -1,0 +1,12 @@
+D:\repos\shared\shared\obj\Debug\shared.vbproj.AssemblyReference.cache
+D:\repos\shared\shared\obj\Debug\shared.vbproj.SuggestedBindingRedirects.cache
+D:\repos\shared\shared\obj\Debug\shared.Resources.resources
+D:\repos\shared\shared\obj\Debug\shared.vbproj.GenerateResource.cache
+D:\repos\shared\shared\obj\Debug\shared.vbproj.CoreCompileInputs.cache
+D:\repos\shared\shared\bin\Debug\shared.exe.config
+D:\repos\shared\shared\bin\Debug\shared.exe
+D:\repos\shared\shared\bin\Debug\shared.pdb
+D:\repos\shared\shared\bin\Debug\shared.xml
+D:\repos\shared\shared\obj\Debug\shared.exe
+D:\repos\shared\shared\obj\Debug\shared.xml
+D:\repos\shared\shared\obj\Debug\shared.pdb

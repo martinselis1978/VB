@@ -1,0 +1,12 @@
+D:\repos\pilas\pilas\bin\Debug\pilas.exe.config
+D:\repos\pilas\pilas\bin\Debug\pilas.exe
+D:\repos\pilas\pilas\bin\Debug\pilas.pdb
+D:\repos\pilas\pilas\bin\Debug\pilas.xml
+D:\repos\pilas\pilas\obj\Debug\pilas.vbproj.AssemblyReference.cache
+D:\repos\pilas\pilas\obj\Debug\pilas.vbproj.SuggestedBindingRedirects.cache
+D:\repos\pilas\pilas\obj\Debug\pilas.Resources.resources
+D:\repos\pilas\pilas\obj\Debug\pilas.vbproj.GenerateResource.cache
+D:\repos\pilas\pilas\obj\Debug\pilas.vbproj.CoreCompileInputs.cache
+D:\repos\pilas\pilas\obj\Debug\pilas.exe
+D:\repos\pilas\pilas\obj\Debug\pilas.xml
+D:\repos\pilas\pilas\obj\Debug\pilas.pdb

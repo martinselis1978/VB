@@ -1,0 +1,12 @@
+D:\repos\exepcionesII\exepcionesII\bin\Debug\exepcionesII.exe.config
+D:\repos\exepcionesII\exepcionesII\bin\Debug\exepcionesII.exe
+D:\repos\exepcionesII\exepcionesII\bin\Debug\exepcionesII.pdb
+D:\repos\exepcionesII\exepcionesII\bin\Debug\exepcionesII.xml
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.vbproj.AssemblyReference.cache
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.vbproj.SuggestedBindingRedirects.cache
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.Resources.resources
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.vbproj.GenerateResource.cache
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.vbproj.CoreCompileInputs.cache
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.exe
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.xml
+D:\repos\exepcionesII\exepcionesII\obj\Debug\exepcionesII.pdb

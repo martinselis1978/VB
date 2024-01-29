@@ -1,0 +1,12 @@
+D:\repos\for\for\bin\Debug\for.exe.config
+D:\repos\for\for\bin\Debug\for.exe
+D:\repos\for\for\bin\Debug\for.pdb
+D:\repos\for\for\bin\Debug\for.xml
+D:\repos\for\for\obj\Debug\for.vbproj.AssemblyReference.cache
+D:\repos\for\for\obj\Debug\for.vbproj.SuggestedBindingRedirects.cache
+D:\repos\for\for\obj\Debug\for.Resources.resources
+D:\repos\for\for\obj\Debug\for.vbproj.GenerateResource.cache
+D:\repos\for\for\obj\Debug\for.vbproj.CoreCompileInputs.cache
+D:\repos\for\for\obj\Debug\for.exe
+D:\repos\for\for\obj\Debug\for.xml
+D:\repos\for\for\obj\Debug\for.pdb

@@ -1,0 +1,11 @@
+D:\repos\queue\queue\bin\Debug\queue.exe.config
+D:\repos\queue\queue\bin\Debug\queue.exe
+D:\repos\queue\queue\bin\Debug\queue.pdb
+D:\repos\queue\queue\bin\Debug\queue.xml
+D:\repos\queue\queue\obj\Debug\queue.vbproj.AssemblyReference.cache
+D:\repos\queue\queue\obj\Debug\queue.Resources.resources
+D:\repos\queue\queue\obj\Debug\queue.vbproj.GenerateResource.cache
+D:\repos\queue\queue\obj\Debug\queue.vbproj.CoreCompileInputs.cache
+D:\repos\queue\queue\obj\Debug\queue.exe
+D:\repos\queue\queue\obj\Debug\queue.xml
+D:\repos\queue\queue\obj\Debug\queue.pdb

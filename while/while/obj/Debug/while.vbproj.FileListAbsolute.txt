@@ -1,0 +1,12 @@
+D:\repos\while\while\bin\Debug\while.exe.config
+D:\repos\while\while\bin\Debug\while.exe
+D:\repos\while\while\bin\Debug\while.pdb
+D:\repos\while\while\bin\Debug\while.xml
+D:\repos\while\while\obj\Debug\while.vbproj.AssemblyReference.cache
+D:\repos\while\while\obj\Debug\while.vbproj.SuggestedBindingRedirects.cache
+D:\repos\while\while\obj\Debug\while.Resources.resources
+D:\repos\while\while\obj\Debug\while.vbproj.GenerateResource.cache
+D:\repos\while\while\obj\Debug\while.vbproj.CoreCompileInputs.cache
+D:\repos\while\while\obj\Debug\while.exe
+D:\repos\while\while\obj\Debug\while.xml
+D:\repos\while\while\obj\Debug\while.pdb

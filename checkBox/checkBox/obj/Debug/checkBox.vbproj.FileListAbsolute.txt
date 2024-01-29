@@ -1,0 +1,13 @@
+D:\repos\checkBox\checkBox\bin\Debug\checkBox.exe.config
+D:\repos\checkBox\checkBox\bin\Debug\checkBox.exe
+D:\repos\checkBox\checkBox\bin\Debug\checkBox.pdb
+D:\repos\checkBox\checkBox\bin\Debug\checkBox.xml
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.vbproj.AssemblyReference.cache
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.vbproj.SuggestedBindingRedirects.cache
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.Form1.resources
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.Resources.resources
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.vbproj.GenerateResource.cache
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.vbproj.CoreCompileInputs.cache
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.exe
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.xml
+D:\repos\checkBox\checkBox\obj\Debug\checkBox.pdb

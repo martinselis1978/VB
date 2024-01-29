@@ -1,0 +1,12 @@
+D:\repos\listas\listas\bin\Debug\listas.exe.config
+D:\repos\listas\listas\bin\Debug\listas.exe
+D:\repos\listas\listas\bin\Debug\listas.pdb
+D:\repos\listas\listas\bin\Debug\listas.xml
+D:\repos\listas\listas\obj\Debug\listas.vbproj.AssemblyReference.cache
+D:\repos\listas\listas\obj\Debug\listas.vbproj.SuggestedBindingRedirects.cache
+D:\repos\listas\listas\obj\Debug\listas.Resources.resources
+D:\repos\listas\listas\obj\Debug\listas.vbproj.GenerateResource.cache
+D:\repos\listas\listas\obj\Debug\listas.vbproj.CoreCompileInputs.cache
+D:\repos\listas\listas\obj\Debug\listas.exe
+D:\repos\listas\listas\obj\Debug\listas.xml
+D:\repos\listas\listas\obj\Debug\listas.pdb

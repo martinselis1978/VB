@@ -1,0 +1,12 @@
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.vbproj.AssemblyReference.cache
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.vbproj.SuggestedBindingRedirects.cache
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles_anidados.Resources.resources
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.vbproj.GenerateResource.cache
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.vbproj.CoreCompileInputs.cache
+D:\repos\bucles anidados\bucles anidados\bin\Debug\bucles anidados.exe.config
+D:\repos\bucles anidados\bucles anidados\bin\Debug\bucles anidados.exe
+D:\repos\bucles anidados\bucles anidados\bin\Debug\bucles anidados.pdb
+D:\repos\bucles anidados\bucles anidados\bin\Debug\bucles anidados.xml
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.exe
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.xml
+D:\repos\bucles anidados\bucles anidados\obj\Debug\bucles anidados.pdb

@@ -1,0 +1,12 @@
+D:\repos\generico\generico\bin\Debug\generico.exe.config
+D:\repos\generico\generico\bin\Debug\generico.exe
+D:\repos\generico\generico\bin\Debug\generico.pdb
+D:\repos\generico\generico\bin\Debug\generico.xml
+D:\repos\generico\generico\obj\Debug\generico.vbproj.AssemblyReference.cache
+D:\repos\generico\generico\obj\Debug\generico.vbproj.SuggestedBindingRedirects.cache
+D:\repos\generico\generico\obj\Debug\generico.Resources.resources
+D:\repos\generico\generico\obj\Debug\generico.vbproj.GenerateResource.cache
+D:\repos\generico\generico\obj\Debug\generico.vbproj.CoreCompileInputs.cache
+D:\repos\generico\generico\obj\Debug\generico.exe
+D:\repos\generico\generico\obj\Debug\generico.xml
+D:\repos\generico\generico\obj\Debug\generico.pdb

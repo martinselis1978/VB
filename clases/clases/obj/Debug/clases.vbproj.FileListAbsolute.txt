@@ -1,0 +1,12 @@
+D:\repos\clases\clases\bin\Debug\clases.exe.config
+D:\repos\clases\clases\bin\Debug\clases.exe
+D:\repos\clases\clases\bin\Debug\clases.pdb
+D:\repos\clases\clases\bin\Debug\clases.xml
+D:\repos\clases\clases\obj\Debug\clases.vbproj.AssemblyReference.cache
+D:\repos\clases\clases\obj\Debug\clases.vbproj.SuggestedBindingRedirects.cache
+D:\repos\clases\clases\obj\Debug\clases.Resources.resources
+D:\repos\clases\clases\obj\Debug\clases.vbproj.GenerateResource.cache
+D:\repos\clases\clases\obj\Debug\clases.vbproj.CoreCompileInputs.cache
+D:\repos\clases\clases\obj\Debug\clases.exe
+D:\repos\clases\clases\obj\Debug\clases.xml
+D:\repos\clases\clases\obj\Debug\clases.pdb

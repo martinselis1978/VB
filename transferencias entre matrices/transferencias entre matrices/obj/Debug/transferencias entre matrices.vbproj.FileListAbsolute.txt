@@ -1,0 +1,12 @@
+D:\repos\transferencias entre matrices\transferencias entre matrices\bin\Debug\transferencias entre matrices.exe.config
+D:\repos\transferencias entre matrices\transferencias entre matrices\bin\Debug\transferencias entre matrices.exe
+D:\repos\transferencias entre matrices\transferencias entre matrices\bin\Debug\transferencias entre matrices.pdb
+D:\repos\transferencias entre matrices\transferencias entre matrices\bin\Debug\transferencias entre matrices.xml
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.vbproj.AssemblyReference.cache
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.vbproj.SuggestedBindingRedirects.cache
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias_entre_matrices.Resources.resources
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.vbproj.GenerateResource.cache
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.vbproj.CoreCompileInputs.cache
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.exe
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.xml
+D:\repos\transferencias entre matrices\transferencias entre matrices\obj\Debug\transferencias entre matrices.pdb

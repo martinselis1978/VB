@@ -1,0 +1,12 @@
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.vbproj.AssemblyReference.cache
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.vbproj.SuggestedBindingRedirects.cache
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.Resources.resources
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.vbproj.GenerateResource.cache
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.vbproj.CoreCompileInputs.cache
+D:\repos\exepciones1\exepciones1\bin\Debug\exepciones1.exe.config
+D:\repos\exepciones1\exepciones1\bin\Debug\exepciones1.exe
+D:\repos\exepciones1\exepciones1\bin\Debug\exepciones1.pdb
+D:\repos\exepciones1\exepciones1\bin\Debug\exepciones1.xml
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.exe
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.xml
+D:\repos\exepciones1\exepciones1\obj\Debug\exepciones1.pdb

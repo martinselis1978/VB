@@ -1,0 +1,12 @@
+D:\repos\case\case\bin\Debug\case.exe.config
+D:\repos\case\case\bin\Debug\case.exe
+D:\repos\case\case\bin\Debug\case.pdb
+D:\repos\case\case\bin\Debug\case.xml
+D:\repos\case\case\obj\Debug\case.vbproj.AssemblyReference.cache
+D:\repos\case\case\obj\Debug\case.vbproj.SuggestedBindingRedirects.cache
+D:\repos\case\case\obj\Debug\case.Resources.resources
+D:\repos\case\case\obj\Debug\case.vbproj.GenerateResource.cache
+D:\repos\case\case\obj\Debug\case.vbproj.CoreCompileInputs.cache
+D:\repos\case\case\obj\Debug\case.exe
+D:\repos\case\case\obj\Debug\case.xml
+D:\repos\case\case\obj\Debug\case.pdb

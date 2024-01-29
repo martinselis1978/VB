@@ -1,0 +1,12 @@
+D:\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.exe.config
+D:\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.exe
+D:\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.pdb
+D:\repos\primerProyecto\primerProyecto\bin\Debug\primerProyecto.xml
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.vbproj.AssemblyReference.cache
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.vbproj.SuggestedBindingRedirects.cache
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.Resources.resources
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.vbproj.GenerateResource.cache
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.vbproj.CoreCompileInputs.cache
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.exe
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.xml
+D:\repos\primerProyecto\primerProyecto\obj\Debug\primerProyecto.pdb

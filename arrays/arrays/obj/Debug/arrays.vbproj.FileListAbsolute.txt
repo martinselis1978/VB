@@ -1,0 +1,12 @@
+D:\repos\arrays\arrays\bin\Debug\arrays.exe.config
+D:\repos\arrays\arrays\bin\Debug\arrays.exe
+D:\repos\arrays\arrays\bin\Debug\arrays.pdb
+D:\repos\arrays\arrays\bin\Debug\arrays.xml
+D:\repos\arrays\arrays\obj\Debug\arrays.vbproj.AssemblyReference.cache
+D:\repos\arrays\arrays\obj\Debug\arrays.vbproj.SuggestedBindingRedirects.cache
+D:\repos\arrays\arrays\obj\Debug\arrays.Resources.resources
+D:\repos\arrays\arrays\obj\Debug\arrays.vbproj.GenerateResource.cache
+D:\repos\arrays\arrays\obj\Debug\arrays.vbproj.CoreCompileInputs.cache
+D:\repos\arrays\arrays\obj\Debug\arrays.exe
+D:\repos\arrays\arrays\obj\Debug\arrays.xml
+D:\repos\arrays\arrays\obj\Debug\arrays.pdb

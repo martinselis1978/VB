@@ -1,0 +1,13 @@
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.vbproj.AssemblyReference.cache
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.vbproj.SuggestedBindingRedirects.cache
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.Form1.resources
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.Resources.resources
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.vbproj.GenerateResource.cache
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.vbproj.CoreCompileInputs.cache
+D:\repos\miPrimerAplicación\miPrimerAplicación\bin\Debug\miPrimerAplicación.exe.config
+D:\repos\miPrimerAplicación\miPrimerAplicación\bin\Debug\miPrimerAplicación.exe
+D:\repos\miPrimerAplicación\miPrimerAplicación\bin\Debug\miPrimerAplicación.pdb
+D:\repos\miPrimerAplicación\miPrimerAplicación\bin\Debug\miPrimerAplicación.xml
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.exe
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.xml
+D:\repos\miPrimerAplicación\miPrimerAplicación\obj\Debug\miPrimerAplicación.pdb

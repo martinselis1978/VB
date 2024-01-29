@@ -1,0 +1,12 @@
+D:\repos\genericos\genericos\bin\Debug\genericos.exe.config
+D:\repos\genericos\genericos\bin\Debug\genericos.exe
+D:\repos\genericos\genericos\bin\Debug\genericos.pdb
+D:\repos\genericos\genericos\bin\Debug\genericos.xml
+D:\repos\genericos\genericos\obj\Debug\genericos.vbproj.AssemblyReference.cache
+D:\repos\genericos\genericos\obj\Debug\genericos.vbproj.SuggestedBindingRedirects.cache
+D:\repos\genericos\genericos\obj\Debug\genericos.Resources.resources
+D:\repos\genericos\genericos\obj\Debug\genericos.vbproj.GenerateResource.cache
+D:\repos\genericos\genericos\obj\Debug\genericos.vbproj.CoreCompileInputs.cache
+D:\repos\genericos\genericos\obj\Debug\genericos.exe
+D:\repos\genericos\genericos\obj\Debug\genericos.xml
+D:\repos\genericos\genericos\obj\Debug\genericos.pdb

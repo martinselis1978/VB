@@ -1,0 +1,12 @@
+D:\repos\matriz\matriz\bin\Debug\matriz.exe.config
+D:\repos\matriz\matriz\bin\Debug\matriz.exe
+D:\repos\matriz\matriz\bin\Debug\matriz.pdb
+D:\repos\matriz\matriz\bin\Debug\matriz.xml
+D:\repos\matriz\matriz\obj\Debug\matriz.vbproj.AssemblyReference.cache
+D:\repos\matriz\matriz\obj\Debug\matriz.vbproj.SuggestedBindingRedirects.cache
+D:\repos\matriz\matriz\obj\Debug\matriz.Resources.resources
+D:\repos\matriz\matriz\obj\Debug\matriz.vbproj.GenerateResource.cache
+D:\repos\matriz\matriz\obj\Debug\matriz.vbproj.CoreCompileInputs.cache
+D:\repos\matriz\matriz\obj\Debug\matriz.exe
+D:\repos\matriz\matriz\obj\Debug\matriz.xml
+D:\repos\matriz\matriz\obj\Debug\matriz.pdb

@@ -1,0 +1,12 @@
+D:\repos\if\if\bin\Debug\if.exe.config
+D:\repos\if\if\bin\Debug\if.exe
+D:\repos\if\if\bin\Debug\if.pdb
+D:\repos\if\if\bin\Debug\if.xml
+D:\repos\if\if\obj\Debug\if.vbproj.AssemblyReference.cache
+D:\repos\if\if\obj\Debug\if.vbproj.SuggestedBindingRedirects.cache
+D:\repos\if\if\obj\Debug\if.Resources.resources
+D:\repos\if\if\obj\Debug\if.vbproj.GenerateResource.cache
+D:\repos\if\if\obj\Debug\if.vbproj.CoreCompileInputs.cache
+D:\repos\if\if\obj\Debug\if.exe
+D:\repos\if\if\obj\Debug\if.xml
+D:\repos\if\if\obj\Debug\if.pdb

@@ -1,0 +1,12 @@
+D:\repos\do loop\do loop\bin\Debug\do loop.exe.config
+D:\repos\do loop\do loop\bin\Debug\do loop.exe
+D:\repos\do loop\do loop\bin\Debug\do loop.pdb
+D:\repos\do loop\do loop\bin\Debug\do loop.xml
+D:\repos\do loop\do loop\obj\Debug\do loop.vbproj.AssemblyReference.cache
+D:\repos\do loop\do loop\obj\Debug\do loop.vbproj.SuggestedBindingRedirects.cache
+D:\repos\do loop\do loop\obj\Debug\do_loop.Resources.resources
+D:\repos\do loop\do loop\obj\Debug\do loop.vbproj.GenerateResource.cache
+D:\repos\do loop\do loop\obj\Debug\do loop.vbproj.CoreCompileInputs.cache
+D:\repos\do loop\do loop\obj\Debug\do loop.exe
+D:\repos\do loop\do loop\obj\Debug\do loop.xml
+D:\repos\do loop\do loop\obj\Debug\do loop.pdb

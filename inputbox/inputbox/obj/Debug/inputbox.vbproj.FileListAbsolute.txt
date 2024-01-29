@@ -1,0 +1,13 @@
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.vbproj.AssemblyReference.cache
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.vbproj.SuggestedBindingRedirects.cache
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.Form1.resources
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.Resources.resources
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.vbproj.GenerateResource.cache
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.vbproj.CoreCompileInputs.cache
+D:\repos\inputbox\inputbox\bin\Debug\inputbox.exe.config
+D:\repos\inputbox\inputbox\bin\Debug\inputbox.exe
+D:\repos\inputbox\inputbox\bin\Debug\inputbox.pdb
+D:\repos\inputbox\inputbox\bin\Debug\inputbox.xml
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.exe
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.xml
+D:\repos\inputbox\inputbox\obj\Debug\inputbox.pdb

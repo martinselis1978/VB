@@ -1,0 +1,12 @@
+D:\repos\function\function\bin\Debug\function.exe.config
+D:\repos\function\function\bin\Debug\function.exe
+D:\repos\function\function\bin\Debug\function.pdb
+D:\repos\function\function\bin\Debug\function.xml
+D:\repos\function\function\obj\Debug\function.vbproj.AssemblyReference.cache
+D:\repos\function\function\obj\Debug\function.vbproj.SuggestedBindingRedirects.cache
+D:\repos\function\function\obj\Debug\function.Resources.resources
+D:\repos\function\function\obj\Debug\function.vbproj.GenerateResource.cache
+D:\repos\function\function\obj\Debug\function.vbproj.CoreCompileInputs.cache
+D:\repos\function\function\obj\Debug\function.exe
+D:\repos\function\function\obj\Debug\function.xml
+D:\repos\function\function\obj\Debug\function.pdb

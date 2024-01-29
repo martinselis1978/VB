@@ -1,0 +1,12 @@
+D:\repos\lectura\lectura\bin\Debug\lectura.exe.config
+D:\repos\lectura\lectura\bin\Debug\lectura.exe
+D:\repos\lectura\lectura\bin\Debug\lectura.pdb
+D:\repos\lectura\lectura\bin\Debug\lectura.xml
+D:\repos\lectura\lectura\obj\Debug\lectura.vbproj.AssemblyReference.cache
+D:\repos\lectura\lectura\obj\Debug\lectura.vbproj.SuggestedBindingRedirects.cache
+D:\repos\lectura\lectura\obj\Debug\lectura.Resources.resources
+D:\repos\lectura\lectura\obj\Debug\lectura.vbproj.GenerateResource.cache
+D:\repos\lectura\lectura\obj\Debug\lectura.vbproj.CoreCompileInputs.cache
+D:\repos\lectura\lectura\obj\Debug\lectura.exe
+D:\repos\lectura\lectura\obj\Debug\lectura.xml
+D:\repos\lectura\lectura\obj\Debug\lectura.pdb

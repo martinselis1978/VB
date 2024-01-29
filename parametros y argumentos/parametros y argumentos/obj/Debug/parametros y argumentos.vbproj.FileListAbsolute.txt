@@ -1,0 +1,12 @@
+D:\repos\parametros y argumentos\parametros y argumentos\bin\Debug\parametros y argumentos.exe.config
+D:\repos\parametros y argumentos\parametros y argumentos\bin\Debug\parametros y argumentos.exe
+D:\repos\parametros y argumentos\parametros y argumentos\bin\Debug\parametros y argumentos.pdb
+D:\repos\parametros y argumentos\parametros y argumentos\bin\Debug\parametros y argumentos.xml
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.vbproj.AssemblyReference.cache
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.vbproj.SuggestedBindingRedirects.cache
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros_y_argumentos.Resources.resources
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.vbproj.GenerateResource.cache
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.vbproj.CoreCompileInputs.cache
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.exe
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.xml
+D:\repos\parametros y argumentos\parametros y argumentos\obj\Debug\parametros y argumentos.pdb

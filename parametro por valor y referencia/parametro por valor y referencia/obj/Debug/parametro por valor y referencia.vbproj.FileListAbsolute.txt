@@ -1,0 +1,12 @@
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.vbproj.AssemblyReference.cache
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.vbproj.SuggestedBindingRedirects.cache
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro_por_valor_y_referencia.Resources.resources
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.vbproj.GenerateResource.cache
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.vbproj.CoreCompileInputs.cache
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\bin\Debug\parametro por valor y referencia.exe.config
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\bin\Debug\parametro por valor y referencia.exe
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\bin\Debug\parametro por valor y referencia.pdb
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\bin\Debug\parametro por valor y referencia.xml
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.exe
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.xml
+D:\repos\parametro por valor y referencia\parametro por valor y referencia\obj\Debug\parametro por valor y referencia.pdb

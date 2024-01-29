@@ -1,0 +1,13 @@
+D:\repos\comboBox\comboBox\bin\Debug\comboBox.exe.config
+D:\repos\comboBox\comboBox\bin\Debug\comboBox.exe
+D:\repos\comboBox\comboBox\bin\Debug\comboBox.pdb
+D:\repos\comboBox\comboBox\bin\Debug\comboBox.xml
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.vbproj.AssemblyReference.cache
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.vbproj.SuggestedBindingRedirects.cache
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.Form1.resources
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.Resources.resources
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.vbproj.GenerateResource.cache
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.vbproj.CoreCompileInputs.cache
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.exe
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.xml
+D:\repos\comboBox\comboBox\obj\Debug\comboBox.pdb

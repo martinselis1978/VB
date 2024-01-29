@@ -1,0 +1,11 @@
+D:\repos\Lista\Lista\bin\Debug\Lista.exe.config
+D:\repos\Lista\Lista\bin\Debug\Lista.exe
+D:\repos\Lista\Lista\bin\Debug\Lista.pdb
+D:\repos\Lista\Lista\bin\Debug\Lista.xml
+D:\repos\Lista\Lista\obj\Debug\Lista.vbproj.AssemblyReference.cache
+D:\repos\Lista\Lista\obj\Debug\Lista.Resources.resources
+D:\repos\Lista\Lista\obj\Debug\Lista.vbproj.GenerateResource.cache
+D:\repos\Lista\Lista\obj\Debug\Lista.vbproj.CoreCompileInputs.cache
+D:\repos\Lista\Lista\obj\Debug\Lista.exe
+D:\repos\Lista\Lista\obj\Debug\Lista.xml
+D:\repos\Lista\Lista\obj\Debug\Lista.pdb

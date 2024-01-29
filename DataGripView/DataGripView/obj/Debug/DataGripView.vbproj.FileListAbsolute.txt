@@ -1,0 +1,12 @@
+D:\repos\DataGripView\DataGripView\bin\Debug\DataGripView.exe.config
+D:\repos\DataGripView\DataGripView\bin\Debug\DataGripView.exe
+D:\repos\DataGripView\DataGripView\bin\Debug\DataGripView.pdb
+D:\repos\DataGripView\DataGripView\bin\Debug\DataGripView.xml
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.vbproj.AssemblyReference.cache
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.Form1.resources
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.Resources.resources
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.vbproj.GenerateResource.cache
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.vbproj.CoreCompileInputs.cache
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.exe
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.xml
+D:\repos\DataGripView\DataGripView\obj\Debug\DataGripView.pdb

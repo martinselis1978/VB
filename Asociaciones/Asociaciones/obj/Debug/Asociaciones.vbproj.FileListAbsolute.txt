@@ -1,0 +1,12 @@
+D:\repos\Asociaciones\Asociaciones\bin\Debug\Asociaciones.exe.config
+D:\repos\Asociaciones\Asociaciones\bin\Debug\Asociaciones.exe
+D:\repos\Asociaciones\Asociaciones\bin\Debug\Asociaciones.pdb
+D:\repos\Asociaciones\Asociaciones\bin\Debug\Asociaciones.xml
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.vbproj.AssemblyReference.cache
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.vbproj.SuggestedBindingRedirects.cache
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.Resources.resources
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.vbproj.GenerateResource.cache
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.vbproj.CoreCompileInputs.cache
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.exe
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.xml
+D:\repos\Asociaciones\Asociaciones\obj\Debug\Asociaciones.pdb

@@ -1,0 +1,12 @@
+D:\repos\procedimientos sub\procedimientos sub\bin\Debug\procedimientos sub.exe.config
+D:\repos\procedimientos sub\procedimientos sub\bin\Debug\procedimientos sub.exe
+D:\repos\procedimientos sub\procedimientos sub\bin\Debug\procedimientos sub.pdb
+D:\repos\procedimientos sub\procedimientos sub\bin\Debug\procedimientos sub.xml
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.vbproj.AssemblyReference.cache
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.vbproj.SuggestedBindingRedirects.cache
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos_sub.Resources.resources
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.vbproj.GenerateResource.cache
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.vbproj.CoreCompileInputs.cache
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.exe
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.xml
+D:\repos\procedimientos sub\procedimientos sub\obj\Debug\procedimientos sub.pdb

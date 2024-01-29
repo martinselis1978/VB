@@ -1,0 +1,12 @@
+D:\repos\orden por insercion\orden por insercion\bin\Debug\orden por insercion.exe.config
+D:\repos\orden por insercion\orden por insercion\bin\Debug\orden por insercion.exe
+D:\repos\orden por insercion\orden por insercion\bin\Debug\orden por insercion.pdb
+D:\repos\orden por insercion\orden por insercion\bin\Debug\orden por insercion.xml
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.vbproj.AssemblyReference.cache
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.vbproj.SuggestedBindingRedirects.cache
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden_por_insercion.Resources.resources
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.vbproj.GenerateResource.cache
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.vbproj.CoreCompileInputs.cache
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.exe
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.xml
+D:\repos\orden por insercion\orden por insercion\obj\Debug\orden por insercion.pdb

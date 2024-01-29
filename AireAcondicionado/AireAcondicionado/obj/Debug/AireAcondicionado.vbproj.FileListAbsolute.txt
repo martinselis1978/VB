@@ -1,0 +1,11 @@
+D:\repos\AireAcondicionado\AireAcondicionado\bin\Debug\AireAcondicionado.exe.config
+D:\repos\AireAcondicionado\AireAcondicionado\bin\Debug\AireAcondicionado.exe
+D:\repos\AireAcondicionado\AireAcondicionado\bin\Debug\AireAcondicionado.pdb
+D:\repos\AireAcondicionado\AireAcondicionado\bin\Debug\AireAcondicionado.xml
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.vbproj.AssemblyReference.cache
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.Resources.resources
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.vbproj.GenerateResource.cache
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.vbproj.CoreCompileInputs.cache
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.exe
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.xml
+D:\repos\AireAcondicionado\AireAcondicionado\obj\Debug\AireAcondicionado.pdb

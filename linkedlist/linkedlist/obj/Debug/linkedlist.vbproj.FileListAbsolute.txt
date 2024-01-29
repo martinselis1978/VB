@@ -1,0 +1,11 @@
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.vbproj.AssemblyReference.cache
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.Resources.resources
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.vbproj.GenerateResource.cache
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.vbproj.CoreCompileInputs.cache
+D:\repos\linkedlist\linkedlist\bin\Debug\linkedlist.exe.config
+D:\repos\linkedlist\linkedlist\bin\Debug\linkedlist.exe
+D:\repos\linkedlist\linkedlist\bin\Debug\linkedlist.pdb
+D:\repos\linkedlist\linkedlist\bin\Debug\linkedlist.xml
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.exe
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.xml
+D:\repos\linkedlist\linkedlist\obj\Debug\linkedlist.pdb

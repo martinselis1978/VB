@@ -1,0 +1,14 @@
+D:\repos\formularioMDI\formularioMDI\bin\Debug\formularioMDI.exe.config
+D:\repos\formularioMDI\formularioMDI\bin\Debug\formularioMDI.exe
+D:\repos\formularioMDI\formularioMDI\bin\Debug\formularioMDI.pdb
+D:\repos\formularioMDI\formularioMDI\bin\Debug\formularioMDI.xml
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.vbproj.AssemblyReference.cache
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.frmListaProductos.resources
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.frmVentasProductos.resources
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.Resources.resources
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.principal.resources
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.vbproj.GenerateResource.cache
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.vbproj.CoreCompileInputs.cache
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.exe
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.xml
+D:\repos\formularioMDI\formularioMDI\obj\Debug\formularioMDI.pdb

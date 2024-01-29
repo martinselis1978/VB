@@ -1,0 +1,12 @@
+D:\repos\colas\colas\bin\Debug\colas.exe.config
+D:\repos\colas\colas\bin\Debug\colas.exe
+D:\repos\colas\colas\bin\Debug\colas.pdb
+D:\repos\colas\colas\bin\Debug\colas.xml
+D:\repos\colas\colas\obj\Debug\colas.vbproj.AssemblyReference.cache
+D:\repos\colas\colas\obj\Debug\colas.vbproj.SuggestedBindingRedirects.cache
+D:\repos\colas\colas\obj\Debug\colas.Resources.resources
+D:\repos\colas\colas\obj\Debug\colas.vbproj.GenerateResource.cache
+D:\repos\colas\colas\obj\Debug\colas.vbproj.CoreCompileInputs.cache
+D:\repos\colas\colas\obj\Debug\colas.exe
+D:\repos\colas\colas\obj\Debug\colas.xml
+D:\repos\colas\colas\obj\Debug\colas.pdb

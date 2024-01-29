@@ -1,0 +1,11 @@
+D:\repos\delegados\delegados\bin\Debug\delegados.exe.config
+D:\repos\delegados\delegados\bin\Debug\delegados.exe
+D:\repos\delegados\delegados\bin\Debug\delegados.pdb
+D:\repos\delegados\delegados\bin\Debug\delegados.xml
+D:\repos\delegados\delegados\obj\Debug\delegados.vbproj.AssemblyReference.cache
+D:\repos\delegados\delegados\obj\Debug\delegados.Resources.resources
+D:\repos\delegados\delegados\obj\Debug\delegados.vbproj.GenerateResource.cache
+D:\repos\delegados\delegados\obj\Debug\delegados.vbproj.CoreCompileInputs.cache
+D:\repos\delegados\delegados\obj\Debug\delegados.exe
+D:\repos\delegados\delegados\obj\Debug\delegados.xml
+D:\repos\delegados\delegados\obj\Debug\delegados.pdb

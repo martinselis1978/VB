@@ -1,0 +1,12 @@
+D:\repos\tipos enumerados\tipos enumerados\bin\Debug\tipos enumerados.exe.config
+D:\repos\tipos enumerados\tipos enumerados\bin\Debug\tipos enumerados.exe
+D:\repos\tipos enumerados\tipos enumerados\bin\Debug\tipos enumerados.pdb
+D:\repos\tipos enumerados\tipos enumerados\bin\Debug\tipos enumerados.xml
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.vbproj.AssemblyReference.cache
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.vbproj.SuggestedBindingRedirects.cache
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos_enumerados.Resources.resources
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.vbproj.GenerateResource.cache
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.vbproj.CoreCompileInputs.cache
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.exe
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.xml
+D:\repos\tipos enumerados\tipos enumerados\obj\Debug\tipos enumerados.pdb

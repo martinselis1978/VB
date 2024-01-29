@@ -1,0 +1,12 @@
+D:\repos\sort\sort\bin\Debug\sort.exe.config
+D:\repos\sort\sort\bin\Debug\sort.exe
+D:\repos\sort\sort\bin\Debug\sort.pdb
+D:\repos\sort\sort\bin\Debug\sort.xml
+D:\repos\sort\sort\obj\Debug\sort.vbproj.AssemblyReference.cache
+D:\repos\sort\sort\obj\Debug\sort.vbproj.SuggestedBindingRedirects.cache
+D:\repos\sort\sort\obj\Debug\sort.Resources.resources
+D:\repos\sort\sort\obj\Debug\sort.vbproj.GenerateResource.cache
+D:\repos\sort\sort\obj\Debug\sort.vbproj.CoreCompileInputs.cache
+D:\repos\sort\sort\obj\Debug\sort.exe
+D:\repos\sort\sort\obj\Debug\sort.xml
+D:\repos\sort\sort\obj\Debug\sort.pdb

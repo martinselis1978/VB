@@ -1,0 +1,12 @@
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.vbproj.AssemblyReference.cache
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.vbproj.SuggestedBindingRedirects.cache
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.Resources.resources
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.cache
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.vbproj.CoreCompileInputs.cache
+D:\repos\Herencia\Herencia\bin\Debug\Herencia.exe.config
+D:\repos\Herencia\Herencia\bin\Debug\Herencia.exe
+D:\repos\Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\repos\Herencia\Herencia\bin\Debug\Herencia.xml
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.exe
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.xml
+D:\repos\Herencia\Herencia\obj\Debug\Herencia.pdb

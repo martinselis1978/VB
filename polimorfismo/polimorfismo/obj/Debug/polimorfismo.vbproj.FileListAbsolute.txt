@@ -1,0 +1,11 @@
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.vbproj.AssemblyReference.cache
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.Resources.resources
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.vbproj.GenerateResource.cache
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.vbproj.CoreCompileInputs.cache
+D:\repos\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe.config
+D:\repos\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe
+D:\repos\polimorfismo\polimorfismo\bin\Debug\polimorfismo.pdb
+D:\repos\polimorfismo\polimorfismo\bin\Debug\polimorfismo.xml
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.exe
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.xml
+D:\repos\polimorfismo\polimorfismo\obj\Debug\polimorfismo.pdb

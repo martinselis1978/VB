@@ -1,0 +1,11 @@
+D:\repos\interface\interface\bin\Debug\interface.exe.config
+D:\repos\interface\interface\bin\Debug\interface.exe
+D:\repos\interface\interface\bin\Debug\interface.pdb
+D:\repos\interface\interface\bin\Debug\interface.xml
+D:\repos\interface\interface\obj\Debug\interface.vbproj.AssemblyReference.cache
+D:\repos\interface\interface\obj\Debug\interface.Resources.resources
+D:\repos\interface\interface\obj\Debug\interface.vbproj.GenerateResource.cache
+D:\repos\interface\interface\obj\Debug\interface.vbproj.CoreCompileInputs.cache
+D:\repos\interface\interface\obj\Debug\interface.exe
+D:\repos\interface\interface\obj\Debug\interface.xml
+D:\repos\interface\interface\obj\Debug\interface.pdb

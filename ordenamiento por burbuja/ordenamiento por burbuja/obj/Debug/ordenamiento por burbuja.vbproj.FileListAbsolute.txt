@@ -1,0 +1,12 @@
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\bin\Debug\ordenamiento por burbuja.exe.config
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\bin\Debug\ordenamiento por burbuja.exe
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\bin\Debug\ordenamiento por burbuja.pdb
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\bin\Debug\ordenamiento por burbuja.xml
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.vbproj.AssemblyReference.cache
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.vbproj.SuggestedBindingRedirects.cache
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento_por_burbuja.Resources.resources
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.vbproj.GenerateResource.cache
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.vbproj.CoreCompileInputs.cache
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.exe
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.xml
+D:\repos\ordenamiento por burbuja\ordenamiento por burbuja\obj\Debug\ordenamiento por burbuja.pdb

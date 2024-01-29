@@ -1,0 +1,13 @@
+D:\repos\prueba2\prueba2\bin\Debug\prueba2.exe.config
+D:\repos\prueba2\prueba2\bin\Debug\prueba2.exe
+D:\repos\prueba2\prueba2\bin\Debug\prueba2.pdb
+D:\repos\prueba2\prueba2\bin\Debug\prueba2.xml
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.vbproj.AssemblyReference.cache
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.vbproj.SuggestedBindingRedirects.cache
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.Form1.resources
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.Resources.resources
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.vbproj.GenerateResource.cache
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.vbproj.CoreCompileInputs.cache
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.exe
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.xml
+D:\repos\prueba2\prueba2\obj\Debug\prueba2.pdb

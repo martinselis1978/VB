@@ -1,0 +1,12 @@
+D:\repos\seleccion\seleccion\bin\Debug\seleccion.exe.config
+D:\repos\seleccion\seleccion\bin\Debug\seleccion.exe
+D:\repos\seleccion\seleccion\bin\Debug\seleccion.pdb
+D:\repos\seleccion\seleccion\bin\Debug\seleccion.xml
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.vbproj.AssemblyReference.cache
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.vbproj.SuggestedBindingRedirects.cache
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.Resources.resources
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.vbproj.GenerateResource.cache
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.vbproj.CoreCompileInputs.cache
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.exe
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.xml
+D:\repos\seleccion\seleccion\obj\Debug\seleccion.pdb

@@ -1,0 +1,12 @@
+D:\repos\array_matriz_for_each\array_matriz_for_each\bin\Debug\array_matriz_for_each.exe.config
+D:\repos\array_matriz_for_each\array_matriz_for_each\bin\Debug\array_matriz_for_each.exe
+D:\repos\array_matriz_for_each\array_matriz_for_each\bin\Debug\array_matriz_for_each.pdb
+D:\repos\array_matriz_for_each\array_matriz_for_each\bin\Debug\array_matriz_for_each.xml
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.vbproj.AssemblyReference.cache
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.vbproj.SuggestedBindingRedirects.cache
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.Resources.resources
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.vbproj.GenerateResource.cache
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.vbproj.CoreCompileInputs.cache
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.exe
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.xml
+D:\repos\array_matriz_for_each\array_matriz_for_each\obj\Debug\array_matriz_for_each.pdb

@@ -1,0 +1,11 @@
+D:\repos\stack\stack\bin\Debug\stack.exe.config
+D:\repos\stack\stack\bin\Debug\stack.exe
+D:\repos\stack\stack\bin\Debug\stack.pdb
+D:\repos\stack\stack\bin\Debug\stack.xml
+D:\repos\stack\stack\obj\Debug\stack.vbproj.AssemblyReference.cache
+D:\repos\stack\stack\obj\Debug\stack.Resources.resources
+D:\repos\stack\stack\obj\Debug\stack.vbproj.GenerateResource.cache
+D:\repos\stack\stack\obj\Debug\stack.vbproj.CoreCompileInputs.cache
+D:\repos\stack\stack\obj\Debug\stack.exe
+D:\repos\stack\stack\obj\Debug\stack.xml
+D:\repos\stack\stack\obj\Debug\stack.pdb

@@ -1,0 +1,13 @@
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.vbproj.AssemblyReference.cache
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.vbproj.SuggestedBindingRedirects.cache
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.cache
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.vbproj.CoreCompileInputs.cache
+D:\repos\calculadora\calculadora\bin\Debug\calculadora.exe.config
+D:\repos\calculadora\calculadora\bin\Debug\calculadora.exe
+D:\repos\calculadora\calculadora\bin\Debug\calculadora.pdb
+D:\repos\calculadora\calculadora\bin\Debug\calculadora.xml
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.exe
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.xml
+D:\repos\calculadora\calculadora\obj\Debug\calculadora.pdb

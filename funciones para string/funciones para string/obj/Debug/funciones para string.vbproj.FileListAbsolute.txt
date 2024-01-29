@@ -1,0 +1,12 @@
+D:\repos\funciones para string\funciones para string\bin\Debug\funciones para string.exe.config
+D:\repos\funciones para string\funciones para string\bin\Debug\funciones para string.exe
+D:\repos\funciones para string\funciones para string\bin\Debug\funciones para string.pdb
+D:\repos\funciones para string\funciones para string\bin\Debug\funciones para string.xml
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.vbproj.AssemblyReference.cache
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.vbproj.SuggestedBindingRedirects.cache
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones_para_string.Resources.resources
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.vbproj.GenerateResource.cache
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.vbproj.CoreCompileInputs.cache
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.exe
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.xml
+D:\repos\funciones para string\funciones para string\obj\Debug\funciones para string.pdb

@@ -1,0 +1,12 @@
+D:\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+D:\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.xml
+D:\repos\ejercicio2\ejercicio2\obj\Debug\AireAcondicionado.vbproj.AssemblyReference.cache
+D:\repos\ejercicio2\ejercicio2\obj\Debug\AireAcondicionado.vbproj.SuggestedBindingRedirects.cache
+D:\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Resources.resources
+D:\repos\ejercicio2\ejercicio2\obj\Debug\AireAcondicionado.vbproj.GenerateResource.cache
+D:\repos\ejercicio2\ejercicio2\obj\Debug\AireAcondicionado.vbproj.CoreCompileInputs.cache
+D:\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+D:\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.xml
+D:\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb

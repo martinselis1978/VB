@@ -1,0 +1,12 @@
+D:\repos\modificadorAcceso\modificadorAcceso\bin\Debug\modificadorAcceso.exe.config
+D:\repos\modificadorAcceso\modificadorAcceso\bin\Debug\modificadorAcceso.exe
+D:\repos\modificadorAcceso\modificadorAcceso\bin\Debug\modificadorAcceso.pdb
+D:\repos\modificadorAcceso\modificadorAcceso\bin\Debug\modificadorAcceso.xml
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.vbproj.AssemblyReference.cache
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.vbproj.SuggestedBindingRedirects.cache
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.Resources.resources
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.vbproj.GenerateResource.cache
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.vbproj.CoreCompileInputs.cache
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.exe
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.xml
+D:\repos\modificadorAcceso\modificadorAcceso\obj\Debug\modificadorAcceso.pdb

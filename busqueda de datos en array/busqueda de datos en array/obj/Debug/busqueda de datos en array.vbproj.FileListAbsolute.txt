@@ -1,0 +1,12 @@
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.vbproj.AssemblyReference.cache
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.vbproj.SuggestedBindingRedirects.cache
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda_de_datos_en_array.Resources.resources
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.vbproj.GenerateResource.cache
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.vbproj.CoreCompileInputs.cache
+D:\repos\busqueda de datos en array\busqueda de datos en array\bin\Debug\busqueda de datos en array.exe.config
+D:\repos\busqueda de datos en array\busqueda de datos en array\bin\Debug\busqueda de datos en array.exe
+D:\repos\busqueda de datos en array\busqueda de datos en array\bin\Debug\busqueda de datos en array.pdb
+D:\repos\busqueda de datos en array\busqueda de datos en array\bin\Debug\busqueda de datos en array.xml
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.exe
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.xml
+D:\repos\busqueda de datos en array\busqueda de datos en array\obj\Debug\busqueda de datos en array.pdb

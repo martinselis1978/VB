@@ -1,0 +1,12 @@
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.vbproj.AssemblyReference.cache
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.vbproj.SuggestedBindingRedirects.cache
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.Resources.resources
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.vbproj.GenerateResource.cache
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.vbproj.CoreCompileInputs.cache
+D:\repos\claseObjeto\claseObjeto\bin\Debug\claseObjeto.exe.config
+D:\repos\claseObjeto\claseObjeto\bin\Debug\claseObjeto.exe
+D:\repos\claseObjeto\claseObjeto\bin\Debug\claseObjeto.pdb
+D:\repos\claseObjeto\claseObjeto\bin\Debug\claseObjeto.xml
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.exe
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.xml
+D:\repos\claseObjeto\claseObjeto\obj\Debug\claseObjeto.pdb

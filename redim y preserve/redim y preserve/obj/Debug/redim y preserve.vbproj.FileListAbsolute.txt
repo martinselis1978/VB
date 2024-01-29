@@ -1,0 +1,12 @@
+D:\repos\redim y preserve\redim y preserve\bin\Debug\redim y preserve.exe.config
+D:\repos\redim y preserve\redim y preserve\bin\Debug\redim y preserve.exe
+D:\repos\redim y preserve\redim y preserve\bin\Debug\redim y preserve.pdb
+D:\repos\redim y preserve\redim y preserve\bin\Debug\redim y preserve.xml
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.vbproj.AssemblyReference.cache
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.vbproj.SuggestedBindingRedirects.cache
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim_y_preserve.Resources.resources
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.vbproj.GenerateResource.cache
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.vbproj.CoreCompileInputs.cache
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.exe
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.xml
+D:\repos\redim y preserve\redim y preserve\obj\Debug\redim y preserve.pdb

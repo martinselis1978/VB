@@ -1,0 +1,13 @@
+D:\repos\radioButton\radioButton\bin\Debug\radioButton.exe.config
+D:\repos\radioButton\radioButton\bin\Debug\radioButton.exe
+D:\repos\radioButton\radioButton\bin\Debug\radioButton.pdb
+D:\repos\radioButton\radioButton\bin\Debug\radioButton.xml
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.vbproj.AssemblyReference.cache
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.vbproj.SuggestedBindingRedirects.cache
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.Form1.resources
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.Resources.resources
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.vbproj.GenerateResource.cache
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.vbproj.CoreCompileInputs.cache
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.exe
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.xml
+D:\repos\radioButton\radioButton\obj\Debug\radioButton.pdb

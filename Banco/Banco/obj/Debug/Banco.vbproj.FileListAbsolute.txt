@@ -1,0 +1,12 @@
+D:\repos\Banco\Banco\obj\Debug\Banco.vbproj.AssemblyReference.cache
+D:\repos\Banco\Banco\obj\Debug\Banco.vbproj.SuggestedBindingRedirects.cache
+D:\repos\Banco\Banco\obj\Debug\Banco.Resources.resources
+D:\repos\Banco\Banco\obj\Debug\Banco.vbproj.GenerateResource.cache
+D:\repos\Banco\Banco\obj\Debug\Banco.vbproj.CoreCompileInputs.cache
+D:\repos\Banco\Banco\bin\Debug\Banco.exe.config
+D:\repos\Banco\Banco\bin\Debug\Banco.exe
+D:\repos\Banco\Banco\bin\Debug\Banco.pdb
+D:\repos\Banco\Banco\bin\Debug\Banco.xml
+D:\repos\Banco\Banco\obj\Debug\Banco.exe
+D:\repos\Banco\Banco\obj\Debug\Banco.xml
+D:\repos\Banco\Banco\obj\Debug\Banco.pdb

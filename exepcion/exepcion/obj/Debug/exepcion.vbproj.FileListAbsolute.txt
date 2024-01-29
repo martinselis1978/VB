@@ -1,0 +1,11 @@
+D:\repos\exepcion\exepcion\bin\Debug\exepcion.exe.config
+D:\repos\exepcion\exepcion\bin\Debug\exepcion.exe
+D:\repos\exepcion\exepcion\bin\Debug\exepcion.pdb
+D:\repos\exepcion\exepcion\bin\Debug\exepcion.xml
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.vbproj.AssemblyReference.cache
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.Resources.resources
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.vbproj.GenerateResource.cache
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.vbproj.CoreCompileInputs.cache
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.exe
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.xml
+D:\repos\exepcion\exepcion\obj\Debug\exepcion.pdb
